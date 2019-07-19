@@ -1,0 +1,5 @@
+token= here
+owner= 472413769700474901
+prefix= 8
+stayinchannel=true
+songinstatus=false

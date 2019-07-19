@@ -1,5 +1,5 @@
-token= here
-owner= 472413769700474901
-prefix= 8
+token= NjAxODQ2MDY1NDY0OTk5OTQ2.XTIO4A.DauIG_YtUuiKqaMB1HeYimTOT_Y
+owner= 530914058526916611
+prefix= F
 stayinchannel=true
 songinstatus=false

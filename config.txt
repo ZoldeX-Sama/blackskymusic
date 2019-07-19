@@ -1,5 +1,5 @@
 token= NjAxODQ2MDY1NDY0OTk5OTQ2.XTIO4A.DauIG_YtUuiKqaMB1HeYimTOT_Y
-owner= 530914058526916611
+owner= 566173760160268288
 prefix= F
 stayinchannel=true
 songinstatus=false
